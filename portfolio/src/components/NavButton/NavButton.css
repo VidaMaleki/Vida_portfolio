@@ -1,0 +1,18 @@
+.navbutton-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: "fix-content";
+  height: 100%;
+  margin: 0;
+  padding: 0px;
+
+  padding-left: 1rem;
+}
+.navbutton-wrapper h2 {
+  color: #3a393e;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+}
